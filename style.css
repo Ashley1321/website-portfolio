@@ -1,0 +1,66 @@
+#headertable{
+    width: 100%;
+    background-color: black;
+
+}
+.logo{
+    width: 175px;
+}
+nav{
+    padding-right: 20px;
+    background-color:black;
+    
+}
+a{
+    margin-right:10px;
+}
+video{
+    width: 100%;
+}
+#userimage{
+    width: 500px;
+}
+.bio{
+    width: 70%;
+    text-align: left;
+    color: red;
+    font-family: Verdana;
+    font-size:large;
+
+}
+.btn{
+    padding-right: 20px;
+    border-radius: 10px;
+    font-size: medium;
+}
+.footertext{
+    text-align: center;
+    color: black;
+    font-family:Verdana;
+    font-size: medium;
+    
+}
+.footer{
+    background-color: red;
+    height: 125px;
+}
+.body{
+    background-color: black;
+    color: rgb(231, 12, 48);
+    font-family:Verdana;
+}
+.contactbody{
+    background-color: black;
+    color: chartreuse;
+    font-family: Verdana;
+}
+.btn2{
+    padding-right: 25px;
+    border-radius: 10px;
+    font-size: medium;
+}
+
+.textarea{
+    width: 40%;
+    height: 60%;
+}
